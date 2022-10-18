@@ -1,0 +1,1 @@
+![](/home/jorgenaranjo/Imágenes/Capturas de pantalla/Captura desde 2022-10-18 09-39-35.png)
