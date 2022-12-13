@@ -4,8 +4,7 @@
 
 #### 1. Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
 
-[![img](https://github.com/pikatostes/entornos/raw/main/entornosDesarrolloIntegrado/sublime.png)](https://github.com/pikatostes/entornos/blob/main/entornosDesarrolloIntegrado/sublime.png)
-
+<a href="./capt.ej1.png"> 
 #### 
 
 #### 2. Personaliza Sublime text instalando los complementos más importantes.
