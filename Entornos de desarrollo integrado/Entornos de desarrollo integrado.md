@@ -4,8 +4,7 @@
 
 #### 1. Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
 
-<a href="./capt.ej1.png"> 
-#### 
+<img src="./capt.ej1.png"> 
 
 #### 2. Personaliza Sublime text instalando los complementos más importantes.
 
@@ -30,9 +29,7 @@
 
 #### 4. Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
 
-[![img](https://github.com/pikatostes/entornos/raw/main/entornosDesarrolloIntegrado/code.png)](https://github.com/pikatostes/entornos/blob/main/entornosDesarrolloIntegrado/code.png)
-
-#### 
+<img src="./capt.ej4.png"> 
 
 #### 6. ¿Qué paquetes básicos debemos instalar en Ubuntu para desarrollar en Java?
 
@@ -42,4 +39,4 @@
 
 #### 7. Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando.
 
-[![img](https://github.com/pikatostes/entornos/raw/main/entornosDesarrolloIntegrado/netbeans.png)](https://github.com/pikatostes/entornos/blob/main/entornosDesarrolloIntegrado/netbeans.png)
+<img src="./capt.ej7.2.png"> 
